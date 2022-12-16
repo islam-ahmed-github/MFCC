@@ -6,7 +6,6 @@
 
 #include<stdint.h>
 #include<cmath>
-#include<windows.h>
 #include<limits.h>
 #include<float.h>
 
